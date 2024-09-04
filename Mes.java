@@ -1,0 +1,18 @@
+package aula6;
+
+public enum Mes {
+
+	JANEIRO,
+	FEVEREIRO,
+	MARCO,
+	ABRIL,
+	MAIO,
+	JUNHO,
+	JULHO,
+	AGOSTO,
+	SETEMBRO,
+	OUTRUBRO,
+	NOVEMBRO,
+	DEZEMBRO,
+	MOREIRO
+}

@@ -1,0 +1,36 @@
+package aula6;
+
+public enum Mercado {
+
+	Biscoito,
+	Bisnaguinha,
+	Iogurte,
+	Leite_fermentado,
+	Manteiga,
+	Margarina,
+	Mortadela,
+	Peito_de_peru,
+	Presunto,
+	Queijo,
+	Arroz,
+	Azeite,
+	Café,
+	Enlatado,
+	Extrato_de_tomate,
+	Farinha,
+	Farofa,
+	Feijão,
+	Leite,
+	Macarrão,
+	Maionese,
+	Óleo,
+	Tempero_pronto,
+	Frango,
+	Pizza,
+	Pao_de_queijo,
+	Pao_filao,
+	Requeijao,
+	Fruta,
+	Verdura,
+	Legume;
+}
